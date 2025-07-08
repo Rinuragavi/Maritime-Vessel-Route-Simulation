@@ -1,4 +1,4 @@
-# Vessel Route Simulation Project
+# Vessel (Ship) Route Simulation - Exploratoty Projecy (Prelimnary version)
 
 ## Project Overview
 
